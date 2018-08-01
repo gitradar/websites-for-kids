@@ -1,0 +1,34 @@
+---
+- name: PBS Kids
+  web: https://www.pbs.org
+  description: PBS KIDS is committed to making a positive impact on the lives of children through curriculum-based entertainment. With a 360-degree approach towards learning and reaching children, PBS KIDS leverages the full spectrum of media and technology to build knowledge, critical thinking, imagination and curiosity. By involving parents, teachers, caregivers and communities as learning partners, PBS KIDS helps to empower children for success in school and in life.
+  age_groups:
+    - infants
+    - toddlers
+    - elementary
+  tags:
+    - apps and games
+    - arts
+    - books
+
+- name: Scratch
+  web: https://scratch.mit.edu
+  description: With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century. Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It is provided free of charge.
+  age_groups:
+    - elementary
+  tags:
+    - apps and games
+    - creativity
+    - entertainment
+
+- name: Exploratorium
+  web: https://www.exploratorium.edu/explore
+  description: Located in San Francisco, California, the Exploratorium is a public learning laboratory exploring the world through science, art, and human perception. You will find lots of resources on topics such as (but not limited to)- Arts Astronomy & Space Exploration Chemistry Color Culture Earth, Ocean, & Atmosphere Electricity and Magnetism Energy Engineering and Tinkering Food & Cooking Geology - Materials Heat and Temperature Human Anatomy Language & Speech Life Science.
+  age_groups:
+    - toddlers
+    - elementary
+  tags:
+    - apps and games
+    - arts
+    - creativity
+    - entertainment
