@@ -179,3 +179,215 @@
     - toddler
   tags: 
     - parenting
+
+- name: Kidlit TV
+  web: https://kidlit.tv/
+  description: >
+    KidLit TV, winner of the Parents’ Choice Gold Award, is a diverse group of parents, educators, librarians, kid lit creators, and award winning filmmakers all working together to bring great books to kids. Our mission is to create fun new ways to reinforce an appreciation of reading that children will carry with them for the rest of their lives.
+  age_groups:
+    - infant
+    - toddler
+    - elementary
+  tags: 
+    - art
+    - creativity
+    - read and write
+    - social skills
+    - stories and rhymes
+
+- name: Parenting
+  web: http://www.parenting.com
+  description: >
+    Parenting offers a ton of information for parents to-be and new parents on topics such as fertility, pregnancy and upbringing of your young ones. In addition, the site also offers information on - Parenting Advice, Baby Names, Product Recalls, Health Guides. Along with babycenter.com, this is another excellent resource for parents of young kids.
+  age_groups:
+    - infant
+    - family 
+  tags: 
+    - parenting
+
+- name: NGC Kids
+  web: https://kids.nationalgeographic.com/
+  description: >
+    Nat Geo Kids inspires young adventurers to explore the world through award-winning magazines, books, apps, games, toys, videos, events, and a website, and is the only kids brand with a world-class scientific organization at its core. National Geographic Kids magazine (10 issues per year) and Little Kids magazine (six issues per year) are photo-driven publications and are available on newsstands or by subscription in print and on tablets.
+  age_groups:
+    - infant
+    - elementary
+    - toddler
+  tags: 
+    - science
+    - math
+    - entertainment
+
+- name: Animal Fact Guide
+  web: http://www.animalfactguide.com/
+  description: At Animal Fact Guide, you can learn about interesting and endangered animals from around the world. Discover what makes an animal unique and get wildlife conservation tips on the Animal Facts pages. Animal Facts - http://www.animalfactguide.com/animal-facts/
+  age_groups: 
+    - elementary
+  tags: 
+    - science
+    - math
+
+- name: Agnitus
+  web: http://www.agnitus.com/
+  description: We believe that children are naturally creative, and learn through play by seeing, touching, hearing, and doing. It is our mission to support their curiosity with tools and games that provide rich sources of tangible activity that help them to build fundamental learning skills for their future success.
+  age_groups:
+    - toddler
+    - elementary 
+  tags: 
+    - read and write
+    - social skills
+    - creativity
+
+- name: Hooda Math
+  web: www.hoodamath.com/
+  description: Free Online Math Games. Cool Math Games for Kids of All Ages. Play Unblocked Games at School Now! iPad Games Online. Play Math Games for iPad also works on Kindle and Android - HTML5 Games atHoodaMath.com.
+  age_groups:
+    - elementary
+  tags: 
+    - math
+
+- name: Khan Academy
+  web: https://www.khanacademy.org
+  description: >
+    A personalized learning resource for all ages Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more. Our math missions guide learners from kindergarten to calculus using state-of-the-art, adaptive technology that identifies strengths and learning gaps. We've also partnered with institutions like NASA, The Museum of Modern Art, The California Academy of Sciences, and MIT to offer specialized content.
+  age_groups:
+    - family
+    - infant
+    - toddler
+    - elementary
+    - middle school
+  tags: 
+    - art
+    - creativity
+    - science
+    - math
+    - read and write
+    - social skill
+
+- name: Choose My Plate
+  web: https://www.choosemyplate.gov
+  description: >
+    The USDA Center for Nutrition Policy and Promotion (CNPP) was established in 1994 to improve the nutrition and well-being of Americans. Toward this goal, CNPP focuses its efforts on two primary objectives: Advance and promote dietary guidance for all Americans, and Conduct applied research and analyses in nutrition and consumer economics. CNPP's core projects to support its objectives are the following: Dietary Guidelines for Americans USDA Food Guidance System (MyPlate, MiPlato, MyPyramid, Food Guide Pyramid) Healthy Eating Index USDA Food Plans Nutrient Content of the U.S. Food Supply Expenditures on Children by Families
+  age_groups:
+    - family
+  tags: 
+    - parenting
+
+- name: Starfall
+  web: http://www.starfall.com/
+  description: >
+    Starfall.com is a program service of Starfall Education Foundation, a 501(c)(3) public charity. The website opened in September of 2002 as a free public service and social enterprise supported by the Polis-Schutz family. On July 1, 2015, the Polis-Schutz family donated their full interest in Starfall to the Starfall Education Foundation. Starfall has been teaching children to read with phonics for well over a decade. Our systematic approach, in conjunction with audiovisual interactivity, is perfect for preschool, kindergarten, first grade, second grade, special education, homeschool, and English language development (ELD, ELL, ESL). Starfall is an educational alternative to other entertainment choices for children.
+  age_groups:
+    - infant
+    - toddler
+    - elementary
+  tags:
+    - read and write
+    - science
+    - math
+
+- name: IXL
+  web: https://www.ixl.com/
+  description: >
+    IXL is one of the top quality paid resources for kids and parents. The website offers lessons, tests and a way for parents to track progress of their kids on various subjects such as Math, Science, Language etc.
+  age_groups:
+    - toddler
+    - elementary
+    - middle school
+  tags:
+    - read and write
+    - science
+    - math
+
+- name: ABC Teach
+  web: http://www.abcteach.com/
+  description: ABC Teach has over 5,000 free documents available, including printable worksheets, interactive activities, theme units, and much more.
+  age_groups:
+    - toddler
+    - elementary
+  tags:
+    - science
+    - math
+
+- name: Cool Math websites
+  web: http://www.coolmath.com/
+  description: >
+    CoolMath sites got started way back in 1997 to make math enjoyable for people who thought it couldn't be fun. We're happy to report that we've convinced millions of people over the years that cool + math is an equation that makes sense. Coolmath-Games.com Our brain-training site, for everyone, where logic & thinking meets fun & games. These games have no violence, no empty action, just a lot of challenges that will make you forget you're getting a mental workout! Coolmath4Kids.com Math lessons and games for kids ages 3 through 12. Coolmath4Teachers.com Information and resources for teachers. Coolmath4Parents.com Tips and lessons for parents.
+  age_groups:
+    - toddler
+    - middle school
+    - elementary
+  tags:
+    - apps
+    - games
+    - entertainment
+    - science
+    - math
+
+- name: Curious World
+  web: http://www.curiousworld.com/
+  description: >
+    Curious World is an app that delivers hundreds of fun and educational videos, games, and books to kids ages 3-7. Every video, game, and book is mapped to one or more of 8 Key Learning Areas. New content is added weekly to ensure that there's always more to learn and explore! Curious World is brought to you by the global learning company Houghton Mifflin Harcourt - a leader in education for over 180 years. Early learning content, expertly selected: Curious World is specifically designed to deliver playful learning experiences across 8 Key Learning Areas for children between the age of 3 and 7. Unlimited access to content: Subscribers get access to an expansive collection of fun and educational videos, books, and games curated by global learning company Houghton Mifflin Harcourt. New activities are added weekly, so your child won’t run out of new experiences! Personalized to your child: Content is tailored to your child’s age. Parents can track their children's interests and exposure to 8 Key Learning Areas: The Parent Dashboard provides a summary of your child’s activity, preferences, and the learning areas they're gaining the most exposure to within Curious World. If your child loves math games, prefers reading books about animals, and/or enjoys watching videos about jobs, the Parent Dashboard will let you know. Find more here - https://www.curiousworld.com/faq
+  age_groups:
+    - infant
+    - toddler
+    - elementary
+    - middle school
+  tags:
+    - apps
+    - games
+    - read and write
+    - science
+    - math
+    - social skills
+
+- name: AAA Math
+  web: http://www.aaamath.com/
+  description: >
+    This website illustrates and provides interactive arithmetic exercises and problems. It contains a series of basic math lessons which are a resource that can be used by math students in formal elementary education math classes, home schooling or elsewhere. Interactive lessons are much more conducive to learning math skills than traditional textbooks and work sheets for the following reasons: The ability to animate illustrations of concepts. Interactive exercises provide immediate feedback with the correct answer if a mistake is made. This eliminates repetitive practice of incorrect methods which is typical of traditional homework assignments. The ability to have interactive games that reinforce the concept. The ability to link to other internet resources.
+  age_groups:
+    - elementary
+    - middle school
+  tags:   
+    - science
+    - math
+
+- name: AAA Spell
+  web: http://www.aaaspell.com
+  description: >
+    Student, Teacher and Parent AAASpell.com Accounts are Free, Safe and Easy to create. Accounts allow you to change or correct lists, remember lists and record practice results. Teachers and parents can create accounts and lists for their students and see practice results. Accounts are not required - you can use AAASpell.com at no cost with or without an account.
+  age_groups:
+    - elementary
+    - middle school
+  tags:
+    - read and write
+
+- name: AplusClick Math and logic
+  web: https://www.aplusclick.org
+  description: >
+    A+ Click helps students become problem solvers. No fees, no ads, no calculators, and no sign in. The website features a graduated set of 6000+ challenging problems for students in grades one through twelve, starting from the very simple to the extremely difficult. The questions are based on the Common Core Standards in Math and go beyond by adding hundreds of meaningful practical problems and brainteasers.The questions concentrate on understanding, spatial reasoning, usefulness, and problem solving rather than math rules and theorems. The problems include a short description and an illustration to help problem solvers visualize the model. The problems can be solved within one minute and without using a calculator.
+  age_groups:
+    - elementary
+    - middle school
+  tags:
+    - science
+    - math
+
+
+- name: Reading Eggs
+  web: http://www.readingeggs.com/
+  description: This helps one to read and form words through spelling games and to go through no of books included in it. This goes grade wise as the kids can start using from 4yrs and up..
+  age_groups:
+    - elementary
+  tags:
+    - read and write
+
+- name: Mathletics
+  web: http://us.mathletics.com/
+  description: For age 4 yrs and up. Improves numeracy skills And also has live mathletics. Includes times tables as well!!
+  age_groups:
+    - elemantary
+    - middle school
+  tags:
+    - science
+    - math
