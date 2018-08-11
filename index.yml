@@ -376,7 +376,8 @@
 
 - name: Reading Eggs
   web: http://www.readingeggs.com/
-  description: This helps one to read and form words through spelling games and to go through no of books included in it. This goes grade wise as the kids can start using from 4yrs and up..
+  description: >
+    This helps one to read and form words through spelling games and to go through no of books included in it. This goes grade wise as the kids can start using from 4yrs and up..
   age_groups:
     - elementary
   tags:
@@ -384,7 +385,8 @@
 
 - name: Mathletics
   web: http://us.mathletics.com/
-  description: For age 4 yrs and up. Improves numeracy skills And also has live mathletics. Includes times tables as well!!
+  description: >
+    For age 4 yrs and up. Improves numeracy skills And also has live mathletics. Includes times tables as well!!
   age_groups:
     - elemantary
     - middle school
